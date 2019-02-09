@@ -1,7 +1,7 @@
 # Notes
 TechNotes
 1. What is the difference between the float and integer data type when the size is the same?
-float stores floating-point values, that is, values that have potential decimal places
+A: float stores floating-point values, that is, values that have potential decimal places
 int only stores integral values, that is, whole numbers
 So while both are 32 bits wide, their use (and representation) is quite different. You cannot store 3.141 in an integer, but you can in a float.
 
